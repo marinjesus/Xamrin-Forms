@@ -1,0 +1,11 @@
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\bin\Debug\netstandard2.0\USBF.deps.json
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\bin\Debug\netstandard2.0\USBF.dll
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\bin\Debug\netstandard2.0\USBF.pdb
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.csproj.CoreCompileInputs.cache
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.App.xaml.g.cs
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.MainPage.xaml.g.cs
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.AssemblyInfoInputs.cache
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.AssemblyInfo.cs
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.dll
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.pdb
+C:\Users\mjesus\source\repos\USBF\USBF\USBF\obj\Debug\netstandard2.0\USBF.csprojResolveAssemblyReference.cache
